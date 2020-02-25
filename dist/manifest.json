@@ -1,0 +1,17 @@
+{
+    "name": "FirstPWA",
+    "short_name": "fpwa",
+    "start_url": "./index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#000",
+    "theme_color": "#FF0000",
+    "description": "Don't know , what to tell",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
+    "icons": [{
+        "src": "./image/icon144.png",
+        "type": "image/png"
+    }]
+}
